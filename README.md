@@ -46,8 +46,8 @@ The challenge is to build out this **Huddle landing page with single introductor
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-solution-bXlImtwq6G)
+- Live Site URL: [Live site](https://surjo.pages.dev/Frontend-Mentor-projects/huddle-landing-page-with-single-introductory-section/)
 
 ## My process
 
